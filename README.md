@@ -16,7 +16,7 @@ Removes the glaring reaction border and eases up on the reactions box roundness
 
 ## Reply Arrow Colour Tweaks
 Changes the reply arrow colour to any custom hex value (Defaults to `#6580cfCC` cause blue is nice)
-![reply arrow colour](https://raw.githubusercontent.com/SethCohen/Better-Discord-Mini-Themes/main/assets/replyarrow.png "Reply Arrow Colour Tweaks)
+![reply arrow colour](https://raw.githubusercontent.com/SethCohen/Better-Discord-Mini-Themes/main/assets/replyarrow.png "Reply Arrow Colour Tweaks")
 
 ## Role Tags Tweaks
 Changes the role tags to be more colourful
