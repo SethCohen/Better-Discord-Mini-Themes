@@ -1,0 +1,37 @@
+/**
+ * @name Role Tags Tweaks
+ * @author Sethryl#8645
+ * @version 1.0.0
+ * @description Changes role tags in user member list popout
+*/
+
+#app-mount .roleCircle-3xAZ1j {
+	border-radius: 0%;
+	width: 5px;
+	height: 22px;
+}
+
+#app-mount .roleCircle-3xAZ1j::after {
+	content: "";
+	position: absolute;
+	height: 22px;
+	width: 100%;
+	left: 0;
+	background: inherit;
+	opacity: 0.60;
+	z-index: -1;
+}
+
+#app-mount .role-2irmRk {
+	position: relative;
+	z-index: 1;
+	background: inherit;
+	border-radius: 0px; 
+	height: 22px;
+	margin: 0 2px 2px 0;
+	padding: 4px 4px 4px 0px;
+}
+
+#app-mount .addButton-pcyyf6 {
+	border: 0px;
+}

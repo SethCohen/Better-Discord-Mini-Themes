@@ -1,0 +1,15 @@
+/**
+ * @name Mention Colour Tweaks
+ * @author Sethryl#8645
+ * @version 1.0.0
+ * @description Customizes Mention Colour
+*/
+
+
+#app-mount .mentioned-xhSam7:before {
+	background-color: #6580cf;
+	padding: 1px; 
+	}
+#app-mount .mentioned-xhSam7 {
+	background-color: #6580cf40;
+	}

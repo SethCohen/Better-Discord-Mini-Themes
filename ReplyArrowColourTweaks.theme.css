@@ -1,0 +1,12 @@
+/**
+ * @name Reply Arrow Colour Tweaks
+ * @author Sethryl#8645
+ * @version 1.0.0
+ * @description Customizes Reply Arrow Colour
+*/
+
+
+#app-mount .repliedMessage-VokQwo:before {
+	border-left: var(--spine-width) solid #6580cfCC;
+	border-top: var(--spine-width) solid #6580cfCC;
+}

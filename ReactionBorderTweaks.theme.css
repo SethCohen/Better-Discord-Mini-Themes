@@ -1,0 +1,14 @@
+/**
+ * @name Reaction Border Tweaks
+ * @author Sethryl#8645
+ * @version 1.0.0
+ * @description Removes reaction border and tweaks roundness
+ */
+
+.reaction-1hd86g.reactionMe-wv5HKu {
+    border: 1px solid transparent;
+}
+
+.reaction-1hd86g {
+    border-radius: 0.30rem;
+}
