@@ -1,5 +1,6 @@
 # Better-Discord-Mini-Themes
-A collection of custom css themes that each fix some specific element for Discord; applied using [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/).
+A collection of custom css themes that each fix some specific element for Discord.
+Applied using [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/).
 
 ---
 ## Compact Channels Tweaks
