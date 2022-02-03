@@ -1,12 +1,12 @@
 /**
- * @name Reply Arrow Tweaks
- * @author Sethryl#8645
- * @version 1.0.0
+ * @name Reply Arrow Colour Tweaks
+ * @author Seth#008
+ * @version 1.0.1
  * @description Customizes Reply Arrow Colour
 */
 
 
-#app-mount .repliedMessage-VokQwo:before {
+#app-mount .repliedMessage-3Z6XBG:before {
 	border-left: var(--spine-width) solid #6580cfCC;
 	border-top: var(--spine-width) solid #6580cfCC;
 }

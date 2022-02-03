@@ -1,0 +1,15 @@
+/**
+ * @name Mention Colour Tweaks
+ * @author Seth#008
+ * @version 1.0.1
+ * @description Customizes Mention Colour
+*/
+
+
+#app-mount .mentioned-Tre-dv:before {
+	background-color: #6580cf;
+	padding: 1px; 
+	}
+#app-mount .mentioned-Tre-dv {
+	background-color: #6580cf40;
+	}

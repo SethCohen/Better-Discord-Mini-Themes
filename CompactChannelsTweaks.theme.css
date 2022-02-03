@@ -1,18 +1,14 @@
 /**
  * @name Compact Channels Tweaks
- * @author Sethryl#8645
- * @version 1.0.0
+ * @author Seth#008
+ * @version 1.0.1
  * @description Decreases whitespace between channels & categories.
 */
 
-.wrapper-2jXpOf {
-    padding: 0px;
+.containerDefault-3TQ5YN, .containerDragAfter-1J_-1V, .containerDragBefore-ei4h1m, .containerUserOver-3woq86 {
+    padding-top: 0px;
 }
 
-.containerDefault-3tr_sE, .containerDragAfter-Zk9oyx, .containerDragBefore-1YqewQ, .containerUserOver-98-yc7 {
-    padding-top: 4px;
-}
-
-.mainContent-u_9PKf {
+.mainContent-20q_Hp {
     padding: 4px;
 }
