@@ -21,4 +21,4 @@ Changes the reply arrow colour to any custom hex value (Defaults to `#6580cfCC` 
 
 ## Role Tags Tweaks
 Changes the role tags to be more colourful
-![role tags](https://raw.githubusercontent.com/SethCohen/Better-Discord-Mini-Themes/main/assets/roletags.png "Role Tags Tweaks")
+![role tags](https://i.imgur.com/Vk6Wv7G.png "Role Tags Tweaks")
