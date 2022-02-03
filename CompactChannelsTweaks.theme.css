@@ -1,14 +1,21 @@
 /**
  * @name Compact Channels Tweaks
- * @author Seth#008
- * @version 1.0.1
+ * @author Seth#0008
+ * @version 1.0.2
  * @description Decreases whitespace between channels & categories.
+ * @source https://github.com/SethCohen/Better-Discord-Mini-Themes
+ * @website https://sethdev.ca/
 */
 
+:root {
+    --category-spacing: 0px;
+    --channel-spacing: 4px;
+}
+
 .containerDefault-3TQ5YN, .containerDragAfter-1J_-1V, .containerDragBefore-ei4h1m, .containerUserOver-3woq86 {
-    padding-top: 0px;
+    padding-top: var(--category-spacing);
 }
 
 .mainContent-20q_Hp {
-    padding: 4px;
+    padding: var(--channel-spacing);
 }

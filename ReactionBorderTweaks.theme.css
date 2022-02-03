@@ -1,14 +1,21 @@
 /**
  * @name Reaction Border Tweaks
- * @author Seth#008
- * @version 1.0.1
+ * @author Seth#0008
+ * @version 1.0.2
  * @description Removes reaction border and tweaks roundness
+ * @source https://github.com/SethCohen/Better-Discord-Mini-Themes
+ * @website https://sethdev.ca/
  */
+ 
+ :root{
+	 --border-style: 1px solid transparent ;
+	 --border-radius: 0.30rem;
+ }
 
 .reaction-2A2y9y.reactionMe-3I9gFK {
-    border: 1px solid transparent;
+    border: var(--border-style);
 }
 
 .reaction-2A2y9y {
-    border-radius: 0.30rem;
+    border-radius: var(--border-radius);
 }

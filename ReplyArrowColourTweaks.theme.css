@@ -1,12 +1,16 @@
 /**
  * @name Reply Arrow Colour Tweaks
- * @author Seth#008
- * @version 1.0.1
- * @description Customizes Reply Arrow Colour
+ * @author Seth#0008
+ * @version 1.0.2
+ * @description Customizes Reply Arrow Colour.
+ * @source https://github.com/SethCohen/Better-Discord-Mini-Themes
+ * @website https://sethdev.ca/
 */
 
-
+ :root{
+	 --reply-arrow-colour: #6580cfCC;
+ }
 #app-mount .repliedMessage-3Z6XBG:before {
-	border-left: var(--spine-width) solid #6580cfCC;
-	border-top: var(--spine-width) solid #6580cfCC;
+	border-left: var(--spine-width) solid var(--reply-arrow-colour);
+	border-top: var(--spine-width) solid var(--reply-arrow-colour);
 }

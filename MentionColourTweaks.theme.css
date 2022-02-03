@@ -1,15 +1,20 @@
 /**
  * @name Mention Colour Tweaks
- * @author Seth#008
- * @version 1.0.1
- * @description Customizes Mention Colour
+ * @author Seth#0008
+ * @version 1.0.2
+ * @description Customizes Mention Colour.
+ * @source https://github.com/SethCohen/Better-Discord-Mini-Themes
+ * @website https://sethdev.ca/
 */
 
+:root {
+    --mention-color: 101,128,207;
+}
 
 #app-mount .mentioned-Tre-dv:before {
-	background-color: #6580cf;
+	background-color:rgba(var(--mention-color), 1);
 	padding: 1px; 
 	}
 #app-mount .mentioned-Tre-dv {
-	background-color: #6580cf40;
+	background-color: rgba(var(--mention-color), 0.4);
 	}
