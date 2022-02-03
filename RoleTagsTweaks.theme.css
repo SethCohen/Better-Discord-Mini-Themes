@@ -1,35 +1,26 @@
 /**
  * @name Role Tags Tweaks
  * @author Seth#0008
- * @version 1.0.1
- * @description Changes role tags in user member list popout.
+ * @version 1.0.2
+ * @description Changes role tag colour.
  * @source https://github.com/SethCohen/Better-Discord-Mini-Themes
  * @website https://sethdev.ca/
 */
 
-#app-mount .roleCircle-1EgnFN {
-	border-radius: 0%;
-	width: 5px;
-	height: 22px;
-}
-
 #app-mount .roleCircle-1EgnFN::after {
-	content: "";
+	content: "";			
 	position: absolute;
 	height: 22px;
 	width: 100%;
-	left: 4px;
+	left: 0px;
 	background: inherit;
-	opacity: 0.60;
+	opacity: 0.70;
 	z-index: -1;
+	border-radius:4px;
 }
 
 #app-mount .role-2TIOKu {
 	position: relative;
 	z-index: 1;
 	background: inherit;
-	border-radius: 0px; 
-	height: 22px;
-	margin: 0px 4px 4px 0px;
-	padding: 4px 4px 4px 0px;
 }
